@@ -1,6 +1,6 @@
 # Bluetooth Explorer
 
-This repository are dedicated for my mid project on Wireless Computing
+This repository are dedicated for my mid project on Wireless Computing (CIT208) course
 
 ## Getting Started
 
